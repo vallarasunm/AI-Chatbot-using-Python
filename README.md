@@ -78,7 +78,7 @@ By understanding the model training process, you can appreciate the effort that 
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone [https://github.com/tamz2004/AI-Chatbot-using-Python.git]
+   git clone [https://github.com/vallarasunm/AI-Chatbot-using-Python.git]
    ```
 
 2. Install dependencies
